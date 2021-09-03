@@ -11,4 +11,5 @@ Using state-of-the-art machine learning techniques:
 1. [Abhijeet Lokhande](https://gitlab.com/abhijeetlokhande1996)
 
 ## References
-1. DePP
+1. [DePP 2016](https://dl.acm.org/doi/10.1145/2983323.2983914)
+2. [Detecting pages to protect in Wikipedia across multiple languages 2019](https://link.springer.com/article/10.1007/s13278-019-0555-0)
