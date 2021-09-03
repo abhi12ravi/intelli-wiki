@@ -1,4 +1,4 @@
-# IWPA (Intelligent Wiki Protection Assistant)
+# IWPA (Intelligent Wikipedia Page Protection Assistant)
 An assistant for Wikipedia administrators that predicts the protection level and protection duration as per Wikipedia's page protection policy.
 
 ## Goals of this assistant
