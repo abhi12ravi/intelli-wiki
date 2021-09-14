@@ -12,3 +12,4 @@ Using state-of-the-art machine learning techniques:
 
 ## References
 1. DePP
+2. Disinformation on the Web
